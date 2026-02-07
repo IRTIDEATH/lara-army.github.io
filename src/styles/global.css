@@ -21,6 +21,13 @@
 
   --color-laravel: #f53103;
   --color-border: var(--color-zinc-100);
+  --color-border-dark: var(--color-zinc-800);
+  --color-white: #ffffff;
+  --color-background: var(--color-white);
+  --color-foreground-heading: var(--color-zinc-900);
+  --color-foreground-body: var(--color-zinc-700);
+  --color-indonesia-red: #ff0000;
+  --color-indonesia-white: #ffffff;
 }
 
 @layer components {
